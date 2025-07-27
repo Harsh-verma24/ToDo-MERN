@@ -1,30 +1,50 @@
-# 🚀 Todo App Backend – MERN Stack
+# ✅ Full Stack Todo App – MERN
 
-Welcome to the **backend** of the Todo App — the engine that powers your task manager! This service handles everything behind the scenes: creating, storing, updating, and deleting your todos. It's built using modern JavaScript technologies designed for performance, simplicity, and scalability.
+A modern and responsive **Todo App** built with the **MERN stack** (MongoDB, Express, React, Node.js).  
+This app lets you manage your daily tasks with a clean UI, intuitive interactions, and seamless backend functionality.
 
 ---
 
-## 🧠 What This Project Does
+## 🌐 Live Demo
 
-
-- Handles logic for creating, reading, updating, and deleting tasks
-- Sends clean, structured data (in JSON format) back to the client
+> Coming Soon...  
+> _(Add your deployed frontend/backend URLs here once ready)_
 
 ---
 
 ## 🧱 Tech Stack
 
-- **Node.js** – Runs the server-side JavaScript
-- **Express.js** – Handles routing and request processing
-- **MongoDB** – Stores todos in a NoSQL document format
-- **Mongoose** – Manages data structure and validation
-- **dotenv** – Loads environment variables from a `.env` file
-- **nodemon** – Automatically restarts the server on file changes during development
+### 🖥️ Frontend
+
+- **React** – UI development
+- **React Router DOM** – Client-side routing
+- **Tailwind CSS** – Utility-first CSS framework
+- **DaisyUI** – Tailwind-based component library
+- **Axios** – HTTP client for API requests
+- **React Hot Toast** – Beautiful toast notifications
+- **Lucide React** – Elegant SVG icons
+
+### 🗂️ Backend
+
+- **Node.js** – JavaScript runtime environment
+- **Express.js** – Lightweight backend framework
+- **MongoDB** – NoSQL database for data persistence
+- **Mongoose** – ODM for MongoDB
+- **dotenv** – Manage environment variables
+- **nodemon** – Auto-restarts server in dev
 
 ---
 
-## 👨‍💻 Author
-Made with ❤️ by Your Harsh verma
+## 🧠 Features
 
+- ✅ Create, update, and delete todos
+- ✅ Mark todos as completed
+- ✅ Responsive, minimal UI
+- ✅ Toast notifications for feedback
+- ✅ Full separation of concerns (frontend/backend)
 
+---
+## 🙋‍♂️ Author
+- Made with ❤️ by Harsh Verma
+- Feel free to fork, contribute, or drop a ⭐ if you liked it!
 
