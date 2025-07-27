@@ -7,7 +7,7 @@ const todoSchema = new mongoose.Schema(
       required: [true, 'Todo title is required'],
       trim: true,
     },
-    Completed: {
+    completed: {
       type: Boolean,
       default: false,
     },
