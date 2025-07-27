@@ -41,7 +41,6 @@ This app lets you manage your daily tasks with a clean UI, intuitive interaction
 - ✅ Mark todos as completed
 - ✅ Responsive, minimal UI
 - ✅ Toast notifications for feedback
-- ✅ RESTful backend with clean API endpoints
 - ✅ Full separation of concerns (frontend/backend)
 
 ---
