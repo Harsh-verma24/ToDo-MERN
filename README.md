@@ -44,7 +44,7 @@ This app lets you manage your daily tasks with a clean UI, intuitive interaction
 - ✅ Full separation of concerns (frontend/backend)
 
 ---
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 -Made with ❤️ by Harsh Verma
 -Feel free to fork, contribute, or drop a ⭐ if you liked it!
 
