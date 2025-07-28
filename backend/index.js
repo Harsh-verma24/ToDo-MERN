@@ -10,13 +10,12 @@ app.use(express.json());
 
 connectDB();
 app.use(cors({
-  origin: 'http://localhost:5173',  // Vite default port
-//   credentials: true,                // if you're using cookies
+  origin: "https://todo-mern-w1p7.onrender.com",
 }))
 
 app.use('/api',todoRoutes)
 
-const PORT = process.env.PORT
+const PORT = process.env.PORT || 5000
 
 
 app.get('/',(req,res)=>{
