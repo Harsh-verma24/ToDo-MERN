@@ -7,8 +7,8 @@ This app lets you manage your daily tasks with a clean UI, intuitive interaction
 
 ## 🌐 Live Demo
 
-> Coming Soon...  
-> _(Add your deployed frontend/backend URLs here once ready)_
+> Live On...  
+> _(https://todo-mern-w1p7.onrender.com/)_
 
 ---
 
